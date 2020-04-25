@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    
+}
+.tolist{
+    display: flex;
+}
+.inner-tolist{
+    margin:5px;
+}
+ul{
+   
+    text-align: left;
+   
+}
+ul li{
+    list-style: none;
+    width : 100%;
+    padding: 3px;
+    
+}
+.delete{
+    float: right;
+    margin-left: 5px;
+}
